@@ -12,7 +12,7 @@ Created using the commands on the windows prompt:
 
 > npm install --save-dev babel-core babel-loader babel-preset-react
 
-> npm i -D --no-options webpack webpack-dev-server html-webpack-plugin
+> npm i -D --no-optional webpack webpack-dev-server html-webpack-plugin
 
 ```
 Created .babelrc and added {presets : ['react']} to it
