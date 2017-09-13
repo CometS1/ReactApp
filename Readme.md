@@ -64,6 +64,11 @@ Created app folder and added index.js and index.html
 In app folder created component folder and added App.js
 ```
 
+```
+Installed bootstrap with the command :
+>npm install --save --no-optional react-bootstrap
+```
+
 ## Deployment: 
 ```
 > npm run build
